@@ -1,1 +1,1 @@
-# Attendence-Face-detection-system-
+# Attendence-Face-recognition-system
